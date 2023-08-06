@@ -64,8 +64,6 @@
   </url><url>
     <loc>/elements/</loc>
   </url><url>
-    <loc>/about/</loc>
-  </url><url>
     <loc>/authors/john-doe/</loc>
   </url><url>
     <loc>/pages/</loc>
@@ -77,5 +75,7 @@
     <loc>/sections/</loc>
   </url><url>
     <loc>/authors/william-jacob/</loc>
+  </url><url>
+    <loc>/about/</loc>
   </url>
 </urlset>
